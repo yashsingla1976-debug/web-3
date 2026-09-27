@@ -17,8 +17,6 @@
 //ab us url route ko create karliya
 // res bhejiye kuchh bhi
 // ab usi url koaager dyanmic banana hai to realise karo konsa part dyanmic hai us part ke ayega route ma : laga da
-
-
 const path = require("path");
 const express =require('express');
 const app =express();
