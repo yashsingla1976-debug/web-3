@@ -18,8 +18,6 @@ const userModel = require("./usermodel");
 app.get("/", (req, res) => {
     res.send("hello world");
 });
-
-
 // CREATE
 app.get("/create", async (req, res) => {
 
